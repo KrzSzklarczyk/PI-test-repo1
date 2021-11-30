@@ -1,1 +1,2 @@
 zmian07b
+naprawa bledow - hotfix-001
