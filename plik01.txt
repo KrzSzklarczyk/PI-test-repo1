@@ -3,3 +3,4 @@ zmiana 02 zmiana02a
 uwaga zmiana 03 - zmiana07c
 zmiana 04
 zmiana 05
+dodano asystenta pomocy
