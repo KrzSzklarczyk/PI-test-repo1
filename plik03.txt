@@ -1,2 +1,6 @@
 zmian07b
 naprawa bledow - hotfix-001
+oraz
+dodano asystenta pomocy
+Uproszczenie interfejsu graficznego
+easierapp
